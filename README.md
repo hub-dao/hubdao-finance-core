@@ -1,8 +1,8 @@
-# Pancake Factory
+# Hubdao Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/hub-dao/hubdao-finance-core/workflows/CI/badge.svg)](https://github.com/hub-dao/hubdao-finance-core/actions)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on Hubdao is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
 
 # Local Development
 
